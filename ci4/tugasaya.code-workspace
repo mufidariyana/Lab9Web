@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../../../tugasaya"
+		},
+		{
+			"path": "../../lab2_php_dasar"
+		},
+		{
+			"path": "../../lab3_php_database"
+		},
+		{
+			"path": "../../lab4_php_modular"
+		},
+		{
+			"path": "../../lab5_php_oop"
+		},
+		{
+			"path": "../../lab6_php_oop"
+		},
+		{
+			"path": "../../ci4"
+		},
+		{
+			"path": ".."
+		}
+	]
+}
